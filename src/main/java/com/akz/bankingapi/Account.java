@@ -16,6 +16,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 /**
  *
  * @author akz
+ * Account Class
  */
 @Entity
 @Table
